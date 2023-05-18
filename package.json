@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "eslint-config-standard": "^17.0.0",
+    "standard": "*"
+  },
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "eslint-plugin-vue": "^9.3.0"
+  }
+}
