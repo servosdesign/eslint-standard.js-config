@@ -1,12 +1,6 @@
 # Eslint + Standard.js - Vue.js Configuation
 This repository provides a boilerplate setup for linting Vue.js applications with the Standard.js code style It includes a package.json file and an .eslintrc configuration file, pre-configured to use Standard.js, a popular JavaScript code style and linter.
 
-## Features
-- Vue.js Application Boilerplate: Kickstart your Vue.js project with a pre-configured setup.
-- Standard.js Code Style: The code style adheres to Standard.js, ensuring consistent and clean code.
-- ESLint Configuration: The .eslintrc file contains the necessary rules and configurations for Standard.js linting.
-- Easy to Customize: The configuration files can be easily customized to fit your specific project requirements.
-
 
 ## Usage
 - Simply copy the package.json dependcies and then run 
